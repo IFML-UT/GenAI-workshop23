@@ -8282,8 +8282,8 @@ textarea.form-control-lg {
 }
 
 .gradient-section {
-  background: linear-gradient(to bottom, #212529, #f8f9fa);
-  color: #ffffff; /* Set text color to be visible on the gradient background */
+  background: linear-gradient(to bottom, #000000, #f8f9fa);
+  color: #f8f9fa; /* Set text color to be visible on the gradient background */
   padding: 50px 0;
   text-align: center;
 }
