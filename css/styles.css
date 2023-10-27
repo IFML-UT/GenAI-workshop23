@@ -1756,6 +1756,7 @@ progress {
   margin-bottom: 1rem;
   color: var(--bs-table-color);
   vertical-align: top;
+  horizontal-align: center;
   border-color: var(--bs-table-border-color);
 }
 .table > :not(caption) > * > * {
