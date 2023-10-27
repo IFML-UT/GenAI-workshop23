@@ -8348,6 +8348,11 @@ textarea.form-control-lg {
   background-color:rgba(87, 157, 66, var(--bs-bg-opacity)) !important;
 }
 
+.bg-purple {
+  --bs-bg-opacity: 1;
+  background-color:rgba(82, 54, 136, var(--bs-bg-opacity)) !important;
+}
+
 .bg-white {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-white-rgb), var(--bs-bg-opacity)) !important;
