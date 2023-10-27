@@ -1742,7 +1742,8 @@ progress {
   }
 }
 .table {
-  --bs-table-color: #e8e3d3;
+  --bs-table-color: var(--bs-body-color);
+  --bs-table-bg: #33e8e3d3;
   --bs-table-border-color: var(--bs-border-color);
   --bs-table-accent-bg: transparent;
   --bs-table-striped-color: var(--bs-body-color);
@@ -1751,7 +1752,6 @@ progress {
   --bs-table-active-bg: rgba(0, 0, 0, 0.1);
   --bs-table-hover-color: var(--bs-body-color);
   --bs-table-hover-bg: rgba(0, 0, 0, 0.075);
-  opacity: 0.2;
   width: 100%;
   margin-bottom: 1rem;
   color: var(--bs-table-color);
