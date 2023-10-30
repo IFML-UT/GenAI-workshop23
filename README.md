@@ -2,7 +2,9 @@
 ## A workshop hosted by IFML
 
 Nov 29-Dec 1, 2023 at the University of Texas, Austin 
-<img src="assets/img/bg-masthead.jpg>
+
+![Website](assets/img/bg-masthead.jpg)
+
 
 ---
 
