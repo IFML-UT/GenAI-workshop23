@@ -9,9 +9,9 @@ Nov 29-Dec 1, 2023 at the University of Texas, Austin
 
 | Image | Instructor | Affiliation |
 | --- | --- | --- |
-| ![Adam Klivans](assets/img/instructors/klivans.jpg) | [Adam Klivans](https://www.cs.utexas.edu/people/faculty-researchers/adam-klivans) (Director) | Department of Computer Science, Machine Learning Lab, University of Texas, Austin |
-| ![Alex Dimakis](assets/img/instructors/dimakis.jpg) | [Alex Dimakis](https://users.ece.utexas.edu/~dimakis/) (IFML Co-Director) | Department of Electrical and Computer Engineering, University of Texas at Austin |
-| ![Sujay Sanghavi](assets/img/instructors/sanghavi.jpeg) | [Sujay Sanghavi](https://www.ece.utexas.edu/people/faculty/sujay-sanghavi) | Department of Electrical and Computer Engineering, University of Texas, Austin |
+| ![Adam Klivans](assets/img/instructors/klivans.jpg style="max-width: 100px;") | [Adam Klivans](https://www.cs.utexas.edu/people/faculty-researchers/adam-klivans) (Director) | Department of Computer Science, Machine Learning Lab, University of Texas, Austin |
+| ![Alex Dimakis](assets/img/instructors/dimakis.jpg style="max-width: 100px;") | [Alex Dimakis](https://users.ece.utexas.edu/~dimakis/) (IFML Co-Director) | Department of Electrical and Computer Engineering, University of Texas at Austin |
+| ![Sujay Sanghavi](assets/img/instructors/sanghavi.jpeg style="max-width: 100px;") | [Sujay Sanghavi](https://www.ece.utexas.edu/people/faculty/sujay-sanghavi) | Department of Electrical and Computer Engineering, University of Texas, Austin |
 | ![Jon Tamir](assets/img/instructors/tamir.png) | [Jon Tamir](https://users.ece.utexas.edu/~jtamir/) | Department of Electrical and Computer Engineering, University of Texas, Austin |
 | ![Surbhi Goel](assets/img/instructors/goel.jpg) | [Surbhi Goel](https://www.surbhigoel.com/) | Computer and Information Science, University of Pennsylvania |
 | ![Zico Kolter](assets/img/instructors/kolter.jpg) | [Zico Kolter](https://zicokolter.com/) | Department of Computer Science, Carnegie Mellon University |
