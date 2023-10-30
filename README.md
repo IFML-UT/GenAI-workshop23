@@ -1,8 +1,7 @@
 # Prospectives on Generative AI
 ## A workshop hosted by IFML
-![Participants](assets/img/GenAIWorkshopParticipants.png)
-
 Nov 29-Dec 1, 2023 at the University of Texas, Austin 
+![Participants](assets/img/GenAIWorkshopParticipants.png)
 
 ![Website](assets/img/bg-masthead.jpg)
 
