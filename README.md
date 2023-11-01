@@ -10,7 +10,7 @@ Nov 29-Dec 1, 2023 at the University of Texas, Austin
 
 ### Scheduled Speakers
 | Name | Affiliation |
-| --- | --- | --- |
+| --- | --- |
 | [Adam Klivans](https://www.cs.utexas.edu/people/faculty-researchers/adam-klivans) (Director) | Department of Computer Science, Machine Learning Lab, University of Texas, Austin |
 | [Alex Dimakis](https://users.ece.utexas.edu/~dimakis/) (IFML Co-Director) | Department of Electrical and Computer Engineering, University of Texas at Austin |
 | [Sujay Sanghavi](https://www.ece.utexas.edu/people/faculty/sujay-sanghavi) | Department of Electrical and Computer Engineering, University of Texas, Austin |
