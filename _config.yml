@@ -14,14 +14,14 @@ footer: # Institute for Foundations of Machine Learning | ifml@austin.utexas.edu
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  #- title: twitter
-  #  url: https://twitter.com/neurohackademy
-  #- title: Github
-  #  url: https://github.com/IFML-UT
+  title: twitter
+  url: https://twitter.com/MLFoundations
+  title: Github
+  url: https://github.com/IFML-UT
 
 # Build settings
 markdown: kramdown
 permalink: pretty
 
 # Google Analytics
-google_analytics: UA-XXXXXXXX-X
+google_analytics: G-1DCLFM6ZFY
