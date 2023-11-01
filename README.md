@@ -2,10 +2,6 @@
 ## A workshop hosted by IFML
 Nov 29-Dec 1, 2023 at the University of Texas, Austin 
 ![Participants](assets/img/GenAIWorkshopParticipants.png)
-
-![Website](assets/img/eventbrite-website.png)
-
-
 ---
 
 ### Scheduled Speakers
