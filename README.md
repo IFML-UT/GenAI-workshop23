@@ -3,8 +3,8 @@
 Perspectives on Generative AI from leading academic and industrial researchers. 
 Topics include foundation models, fine-tuning, LLMs, diffusion, vision, optimization and related applications. 
 
-## A workshop hosted by IFML
-Nov 29-Dec 1, 2023 at the University of Texas, Austin 
+
+### Nov 29-Dec 1, 2023 the University of Texas at Austin 
 ![Participants](assets/img/GenAIWorkshopParticipants.png)
 ---
 
