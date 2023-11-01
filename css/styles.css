@@ -1744,7 +1744,7 @@ progress {
 }
 .table {
   --bs-table-color: var(--bs-body-color);
-  --bs-table-bg: #e8e3d359;
+  --bs-table-bg: var(--bg-light);
   --bs-table-border-color: var(--bs-border-color);
   --bs-table-accent-bg: transparent;
   --bs-table-striped-color: var(--bs-body-color);
@@ -11107,7 +11107,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.0) 0%, rgba(255, 255, 255, 0.60) 75%, #fff 100%), url("../assets/img/bg-masthead.png");
+  background: linear-gradient(to bottom, rgba(248, 249, 250, 0.0) 0%, rgba(248, 249, 250, 0.60) 75%, #fff 100%), url("../assets/img/bg-masthead.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
