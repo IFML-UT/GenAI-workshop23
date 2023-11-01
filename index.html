@@ -22,6 +22,9 @@
         <link rel="shortcut icon" type="image/png" sizes="32x32"
             href="assets/img/ifml-fav32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="assets/img/ifml-fav16.png">
+        {% if site.google_analytics and jekyll.environment == 'production' %}
+        {% include analytics.html %}
+        {% endif %}
     </head>
     <body id="page-top">
         <!-- Navigation-->
