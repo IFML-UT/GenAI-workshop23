@@ -14,11 +14,11 @@ Register for the multi-day workshop [here](https://www.eventbrite.com/e/ifml-wor
 ### Scheduled Speakers
 | Name | Affiliation |
 | --- | --- |
-| [Adam Klivans](https://www.cs.utexas.edu/people/faculty-researchers/adam-klivans) (Director) | Department of Computer Science, Machine Learning Lab, University of Texas, Austin |
+| [Adam Klivans](https://www.cs.utexas.edu/people/faculty-researchers/adam-klivans) (Director) | Department of Computer Science, Machine Learning Lab, University of Texas at Austin |
 | [Alex Dimakis](https://users.ece.utexas.edu/~dimakis/) (IFML Co-Director) | Department of Electrical and Computer Engineering, University of Texas at Austin |
-| [Sujay Sanghavi](https://www.ece.utexas.edu/people/faculty/sujay-sanghavi) | Department of Electrical and Computer Engineering, University of Texas, Austin |
-| [Jon Tamir](https://users.ece.utexas.edu/~jtamir/) | Department of Electrical and Computer Engineering, University of Texas, Austin |
-| [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) | Department of Electrical and Computer Engineering, University of Texas, Austin |
+| [Sujay Sanghavi](https://www.ece.utexas.edu/people/faculty/sujay-sanghavi) | Department of Electrical and Computer Engineering, University of Texas atAustin |
+| [Jon Tamir](https://users.ece.utexas.edu/~jtamir/) | Department of Electrical and Computer Engineering, University of Texas at Austin |
+| [Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) | Department of Electrical and Computer Engineering, University of Texas at Austin |
 | [Surbhi Goel](https://www.surbhigoel.com/) | Computer and Information Science, University of Pennsylvania |
 | [Zico Kolter](https://zicokolter.com/) | Department of Computer Science, Carnegie Mellon University |
 | [John Duchi](https://profiles.stanford.edu/john-duchi?releaseVersion=9.9.1) | Statistics & Electrical Engineering, Stanford University |
