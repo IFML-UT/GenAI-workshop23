@@ -5,6 +5,9 @@ Topics include foundation models, fine-tuning, LLMs, diffusion, vision, optimiza
 
 
 ### Nov 29-Dec 1, 2023 the University of Texas at Austin 
+
+Register for the multi-day workshop [here](https://www.eventbrite.com/e/ifml-workshop-on-generative-ai-tickets-751791146557?aff=oddtdtcreator).
+
 ![Participants](assets/img/GenAIWorkshopParticipants.png)
 ---
 
