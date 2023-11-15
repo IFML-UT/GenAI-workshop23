@@ -11,8 +11,6 @@ Register for the multi-day workshop [here](https://www.eventbrite.com/e/ifml-wor
 ![Participants](assets/img/GenAIWorkshopParticipants.png)
 ---
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/appG1UIChKBvRq7cu/shrJE2HNIulxyWJAN?backgroundColor=green&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
 
 ### Scheduled Speakers
 | Name | Affiliation |
